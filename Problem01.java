@@ -5,7 +5,7 @@
 	 * 
 	 * For this problem you can assume only integers will be included in any file.
 	 * 
-	 * Test File: Problem1.txt
+	 * Test File: Problem01Input.txt
 	 */
 
 	public int Problem1(File file) {
