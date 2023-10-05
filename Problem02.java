@@ -7,7 +7,7 @@
 	 * 
 	 * For this problem you can assume only integers and commas will be included in any file tested.
 	 * 
-	 * Test File: Problem2.txt
+	 * Test File: Problem02Input.txt
 	 */
 	public int Problem2(File file) {
 
